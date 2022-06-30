@@ -1,2 +1,2 @@
 # RocketSeat_Curso
-Curso la la la la
+Curso da RocketSeat de JavaScript, HTML, CSS e React
